@@ -1,2 +1,11 @@
 # plantnursery
-can be used for buying online plants.
+
+A nursery is a place where plants are propagated and grown to a desired size. Mostly the plants concerned are for gardening, forestry, or conservation biology, rather than agriculture. They include retail nurseries, which sell to the general public; wholesale nurseries, which sell only to businesses such as other nurseries and commercial gardeners;and private nurseries, which supply the needs of institutions or private estates. Some will also work in plant breeding.
+
+A "nurseryman" is a person who owns or works in a nursery.
+
+There are a number of different types of nurseries, broadly grouped as wholesale or retail nurseries, with some overlap depending on the specific operation. Wholesale nurseries produce plants in large quantities which are sold to retail nurseries.
+
+Wholesale nurseries may be small operations that produce a specific type of plant using a small area of land, or very larger operations covering many acres. They propagate plant material or buy plants from other nurseries which may include rooted or unrooted cuttings, or small rooted plants called plugs, or field grown bare root plants, which are planted and grown to a desired size. Some wholesale nurseries produce plants on contract for others which place an order for a specific number and size of plant, while others produce a wide range of plants that are offered for sale to other nurseries and landscapers and sold as first come first served. Retail nurseries sell plants ready to be placed in the landscape or used in homes and businesses.
+
+With the objective of fitting planting stock more able to withstand stresses after outplanting, various nursery treatments have been attempted or developed and applied to nursery stock. Buse and Day (1989), for instance, studied the effect of conditioning of white spruce and black spruce transplants on their morphology, physiology, and subsequent performance after outplanting. Root pruning, wrenching, and fertilization with potassium at 375 kg/ha were the treatments applied. Root pruning and wrenching modified stock in the nursery by decreasing height, root collar diameter, shoot:root ratio, and bud size, but did not improve survival or growth after planting. Fertilization reduced root growth in black spruce but not of white spruce.
